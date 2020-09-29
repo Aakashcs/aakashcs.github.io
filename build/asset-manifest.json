@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05d63473.chunk.css",
+    "main.js": "/static/js/main.4d9c89bd.chunk.js",
+    "main.js.map": "/static/js/main.4d9c89bd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e47d456.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e47d456.js.map",
+    "static/js/2.b2a61fb8.chunk.js": "/static/js/2.b2a61fb8.chunk.js",
+    "static/js/2.b2a61fb8.chunk.js.map": "/static/js/2.b2a61fb8.chunk.js.map",
+    "static/css/3.c7b31c95.chunk.css": "/static/css/3.c7b31c95.chunk.css",
+    "static/js/3.a6804299.chunk.js": "/static/js/3.a6804299.chunk.js",
+    "static/js/3.a6804299.chunk.js.map": "/static/js/3.a6804299.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.e2f6a50d.chunk.js": "/static/js/4.e2f6a50d.chunk.js",
+    "static/js/4.e2f6a50d.chunk.js.map": "/static/js/4.e2f6a50d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f6c739da2bb488c9bf62660b33c0b18.js": "/precache-manifest.6f6c739da2bb488c9bf62660b33c0b18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.c7b31c95.chunk.css.map": "/static/css/3.c7b31c95.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.05d63473.chunk.css.map": "/static/css/main.05d63473.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ach1.jpg": "/static/media/ach1.20456736.jpg",
+    "static/media/ach2.jpg": "/static/media/ach2.cb3f6407.jpg",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/startup1.png": "/static/media/startup1.0cc09329.png",
+    "static/media/sukkur-iba.jpg": "/static/media/sukkur-iba.17dcf7e1.jpg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e47d456.js",
+    "static/js/2.b2a61fb8.chunk.js",
+    "static/css/main.05d63473.chunk.css",
+    "static/js/main.4d9c89bd.chunk.js"
+  ]
+}
